@@ -1,0 +1,13 @@
+# OS X-specific
+.DS_Store
+
+# Logs
+logs
+*.log
+
+public/vendor/*
+node_modules/*
+*.min.js
+*.min.js.map
+*.min.css
+/config.js
